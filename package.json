@@ -17,5 +17,6 @@
 
 "scripts": {
   "build": "webpack --progress --colors",
-  "start": "webpack-dev-server --progress --colors"
+  "start": "webpack-dev-server --progress --colors",
+  "build": "webpack --config webpack.config.js"
 }
