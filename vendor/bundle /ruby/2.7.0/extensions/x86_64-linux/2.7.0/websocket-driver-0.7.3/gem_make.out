@@ -1,0 +1,15 @@
+current directory: /home/chrys/Documents/Microverse/odin_on_rails/my_first_rails_app/vendor/bundle /ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+/home/chrys/.rvm/rubies/ruby-2.7.2/bin/ruby -I /home/chrys/.rvm/rubies/ruby-2.7.2/lib/ruby/2.7.0 -r ./siteconf20210210-4953-xxsh09.rb extconf.rb
+creating Makefile
+
+current directory: /home/chrys/Documents/Microverse/odin_on_rails/my_first_rails_app/vendor/bundle /ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/chrys/Documents/Microverse/odin_on_rails/my_first_rails_app/vendor/bundle /ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/chrys/Documents/Microverse/odin_on_rails/my_first_rails_app/vendor/bundle /ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20210210-4953-12ir6k8
